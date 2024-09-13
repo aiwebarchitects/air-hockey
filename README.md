@@ -3,6 +3,10 @@
 [![Follow us on X](https://img.shields.io/twitter/follow/aiwebarchitects?style=social)](https://x.com/aiwebarchitects)
 [![GitHub stars](https://img.shields.io/github/stars/aiwebarchitects/air-hockey.svg?style=social&label=Star)](https://github.com/aiwebarchitects/air-hockey)
 
+![Air Hockey Game](https://colossal-pencil-ancient.on-fleek.app/Vertical%20Air%20Hockey.png)
+
+[🚀 Live Demo](https://colossal-pencil-ancient.on-fleek.app/) 
+
 Experience the thrill of air hockey with our cutting-edge AI opponent! This project showcases a sleek, modern air hockey game with an intelligent AI that adapts its strategy as you play.
 
 ## 🎮 Features
